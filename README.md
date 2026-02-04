@@ -97,6 +97,10 @@ Font weights and sizes were chosen to closely match the Cursor website’s typog
 
 Screenshots of the final desktop layout are included in the repository for reference and evaluation.
 
+![Screenshot 1](assets/Screenshot%201.png)
+
+![Screenshot 2](assets/Screenshot%202.png)
+
 
 ## Author
 
