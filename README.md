@@ -7,6 +7,12 @@ This project recreates a **desktop-first developer tool landing page inspired by
 The focus of this assignment is **visual and structural accuracy**, not creativity or interactivity. The goal was to match the original design as closely as possible in terms of layout, spacing, typography, colors, and overall visual hierarchy.
 
 
+## Live Demo
+
+```
+https://ishan-parnami.github.io/cursor-landing-page-html-css/
+```
+
 
 ## Tech Stack
 
@@ -90,16 +96,6 @@ Font weights and sizes were chosen to closely match the Cursor website’s typog
 ## Screenshots
 
 Screenshots of the final desktop layout are included in the repository for reference and evaluation.
-
-
-
-
-## Live Demo (Optional)
-
-```
-
-```
-
 
 
 ## Author
