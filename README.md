@@ -6,7 +6,7 @@ This project recreates a **desktop-first developer tool landing page inspired by
 
 The focus of this assignment is **visual and structural accuracy**, not creativity or interactivity. The goal was to match the original design as closely as possible in terms of layout, spacing, typography, colors, and overall visual hierarchy.
 
----
+
 
 ## Tech Stack
 
@@ -21,7 +21,7 @@ The focus of this assignment is **visual and structural accuracy**, not creativi
 * No animations or fancy effects
 * Desktop-only (no responsiveness)
 
----
+
 
 ## Objective
 
@@ -30,7 +30,45 @@ The focus of this assignment is **visual and structural accuracy**, not creativi
 * Use fonts and colors close to the reference design
 * Write clean, readable, and semantic HTML
 
----
+
+## Sections Implemented
+
+The following sections have been recreated according to the assignment instructions:
+
+1. **Top Navigation Bar**
+   Logo, navigation links, primary CTA with a dark background
+
+2. **Hero Section**
+   Main headline, short description, CTA button, and product screenshot
+
+3. **Trusted By / Logos**
+   Row of company logos
+
+4. **Feature Sections (3 Blocks)**
+   Two-column layouts with alternating text and image positions
+
+5. **Feature Cards Section**
+   Section heading with a grid of feature cards
+
+6. **Testimonials**
+   Quote cards with name and role
+
+7. **Use Cases / Stories**
+   Card layout with image and short description
+
+8. **Changelog / Updates**
+   List of updates with dates
+
+9. **Team / About Section**
+   Large image, short description, and CTA
+
+10. **Final Call to Action**
+    Prominent heading with a single button
+
+11. **Footer**
+    Multi-column links and company information
+
+
 
 
 ### Fonts
@@ -47,14 +85,14 @@ Font weights and sizes were chosen to closely match the Cursor website’s typog
 * Clear section separation for readability
 * No unnecessary wrappers
 
----
+
 
 ## Screenshots
 
 Screenshots of the final desktop layout are included in the repository for reference and evaluation.
 
 
----
+
 
 ## Live Demo (Optional)
 
@@ -62,10 +100,8 @@ Screenshots of the final desktop layout are included in the repository for refer
 
 ```
 
----
+
 
 ## Author
 
 **Ishan Parnami**
-
----
